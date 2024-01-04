@@ -4,7 +4,7 @@ A tool used to export, load and unload jenkins jobs.
 
 ## Language 
 
-[ÖÐÎÄÎÄµµ](README_CN.md)
+[ä¸­æ–‡æ–‡æ¡£](README_CN.md)
 
 ## Basic Knowledge
 
