@@ -2,6 +2,10 @@
 
 A tool used to export, load and unload jenkins jobs.
 
+## Language 
+
+[жпнднд╣╣](README_CN.md)
+
 ## Basic Knowledge
 
 You can get the job configuration details by adding `/config.xml` after the job link, eg:
